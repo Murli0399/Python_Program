@@ -6,7 +6,7 @@ def count_words(input_file, output_file):
     with open(output_file, 'w') as file:
         file.write(f"Number of words: {word_count}")
 
-input_file = "input.txt"
-output_file = "output.txt"
+input_file = "Set-03\input.txt"
+output_file = "Set-03\output.txt"
 
 count_words(input_file, output_file)
