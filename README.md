@@ -10,7 +10,7 @@ To run the Python programs in this repository, you'll need to have Python instal
 ## Usage
 Once you have Python installed, you can clone this repository to your local machine using the following command:
 ```
-git clone https://github.com/your-username/python-programs.git
+git clone https://github.com/Murli0399/Python_Program.git
 ```
 Each program is stored in its respective folder, with a clear and concise name describing its functionality. To run a specific program, navigate to the program's folder and execute the Python script using the following command:
 ```
@@ -24,11 +24,11 @@ This repository is open to contributions from the community. If you have a Pytho
 ## Program Categories
 The Python programs in this repository are organized into different categories to help you find programs that match your interests:
 
-Beginner Programs: Simple and easy-to-understand programs suitable for Python beginners.
-Intermediate Programs: Programs that delve into more advanced concepts and techniques.
-Projects: Full-fledged Python projects showcasing the application of Python in real-world scenarios.
-Algorithms: Implementations of popular algorithms in Python.
-Data Manipulation: Programs related to data processing, manipulation, and analysis.
+- **Beginner Programs:** Simple and easy-to-understand programs suitable for Python beginners.
+- **Intermediate Programs:** Programs that delve into more advanced concepts and techniques.
+- **Projects:** Full-fledged Python projects showcasing the application of Python in real-world scenarios.
+- **Algorithms:** Implementations of popular algorithms in Python.
+- **Data Manipulation:** Programs related to data processing, manipulation, and analysis.
 Feel free to explore these categories and discover Python programs that pique your curiosity!
 
 We hope you find this repository a valuable resource for learning, experimenting, and expanding your Python programming skills. Happy coding!
